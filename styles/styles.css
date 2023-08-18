@@ -268,6 +268,8 @@ body {
     left: 0;
     visibility: hidden;
     opacity: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
     transition: all 0.8s ease 0s;
 }
 
